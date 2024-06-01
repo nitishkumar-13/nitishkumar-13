@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **NODE Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitishkumar-13?tab=repositories](https://github.com/nitishkumar-13?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap, React**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap, React, Mysql, Mongo**
 
 - 📫 How to reach me **nitishkumars1302@gmail.com**
 
